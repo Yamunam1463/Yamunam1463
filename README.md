@@ -2,7 +2,7 @@
 
 ## About Me
 - Recently graduated with a degree in Bachelor of Engineering
-- Strong foundation in Programming and Developemnt.
+- Strong foundation in Programming and Developement.
 - Eager to kickstart my career in web development.
 
 ## Skills
